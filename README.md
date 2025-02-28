@@ -50,8 +50,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 Unit testing ensures individual components function correctly. Integration testing verifies interactions between components. System testing evaluates the complete system against requirements. Acceptance testing confirms the software meets user needs before deployment. These stages ensure software quality and reliability.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
-
+#Part 2: Introduction to AI and Prompt Engineering.
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering involves crafting clear and precise inputs to guide AI models in generating relevant responses. Effective prompts improve the accuracy and usefulness of AI-generated content.
